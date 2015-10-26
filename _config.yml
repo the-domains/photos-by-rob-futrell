@@ -1,0 +1,23 @@
+name: Photos by Rob Futrell
+favicon: null
+layout_spectrum: 0.03313741576857865
+typography_spectrum: 0.7039333449210972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5838381587527692
+  lightness: 0.9848456936888397
+  saturation: 0.49511252739466727
+  rhythmicContrast: 0.952450560638681
+purpose: []
